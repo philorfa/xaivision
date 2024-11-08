@@ -24,10 +24,11 @@ The XAI algorithms that are currently offered in the repository are listed in th
 
 | Algorithm |  Description | 
 |-----------|-------------------|
-| Vision SHAP | Display pixel values that have positive/negative impact on the output |
+| Vision SHAP | Display pixel values that have positive/negative impact on the output|
 | Shap Overview | Showcase the behaviour of pixels with high standard deviation|
 | Integrated Gradient |  | 
 | DeepLift |  |
+| Overall Score | It describes how many pixels on average per image are not in the central area but affect the result, and the score describes how much it affects it|
 
 
 
